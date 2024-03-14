@@ -1,4 +1,4 @@
-# 🌍 Study on Greenhouse Gas Emission by Countries 🏭
+# 🌍 Azure End to End Data Engineering Project on Greenhouse Gas Emission 🏭
 
 ## Abstract 📜
 🔍 This repository hosts a comprehensive analysis of greenhouse gas emissions from 15 countries over a decade (2007-2016). The goal is to unearth patterns and trends that could shed light on the role these emissions play in climate change and global warming. An interactive dashboard using PowerBI is a key feature of this study.
