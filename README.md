@@ -41,12 +41,3 @@
 - Significant insights into countries contributing most to global emissions.
 - Data-driven approach offers a pathway to understand and combat climate change effects.
 
-## How to Use This Repository 📘
-- Clone the repository to get started.
-- Explore the 'Data' folder for raw and transformed datasets.
-- Check out the 'Notebooks' for detailed data processing and analysis steps.
-- Dashboards can be viewed under the 'PowerBI' directory.
-
-## Contributions and Feedback 💬
-- Feel free to fork, modify, and use the data and code for your research or projects.
-- Suggestions and contributions to enhance this study are always welcome!
